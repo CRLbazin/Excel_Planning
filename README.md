@@ -56,5 +56,5 @@ Pour le suivi, 2 "Reporting" sont disponibles :
 * La première est une liste des tâches en cours et en retard par personne.
 * Le second est un plan de charge de travail qui affiche la charge de travail de chaque personne par semaine.
 
-
+ 
 Enjoy :)
